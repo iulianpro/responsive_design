@@ -10,3 +10,4 @@ vscode:
     - eventyret.bootstrap-4-cdn-snippet@1.2.3:7CBqCsMp6UjSKmG+LTaUGw==
 ports:
   - port: 8080
+    onOpen: open-preview
